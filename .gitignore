@@ -1,0 +1,8 @@
+#logs
+*.log
+
+#jest-result
+./false
+
+# Dependency directory
+node_modules
