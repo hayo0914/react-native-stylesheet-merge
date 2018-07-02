@@ -1,6 +1,6 @@
 {
   "name": "react-native-stylesheet-merge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Merge the child object which has the key 'ios' or 'android' with the parent object, and create a StyleSheet object.",
   "main": "index.js",
   "scripts": {

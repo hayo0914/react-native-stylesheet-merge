@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
 ```
 
 ## createObject Function
-Utility function for get a merged object according to the current platform(ios/android)
+Utility function to get a merged object according to the current platform(ios/android)
 
 ```js
 import { createObject } from 'react-native';
